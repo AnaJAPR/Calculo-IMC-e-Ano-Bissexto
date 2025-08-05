@@ -1,9 +1,6 @@
 # Calculo IMC e Identificação de Ano Bissexto
 
-Atividade extra da disciplina "Estrutura de Dados" do 3º período da graduação em Ciência de Dados e IA da FGV-EMAp.
-
-# Integrante:
-- Ana Júlia Amaro Pereira Rocha
+Atividade extra da disciplina Estrutura de Dados ministrada no 3º período da graduação em Ciência de Dados e Inteligência Artificial da FGV-EMAp.
 
 # Objetivo:
 
@@ -16,10 +13,7 @@ O trabalho está dividido em duas questões, as quais são:
 # Como usar:
 
 Esse repositório possui dois arquivos .cpp, um para cada questão da atividade.
-Os códigos são bem simples pois ainda não sei muito de C++, afinal estamos começando a aprender agora.
+Os códigos são bem simples pois estamos começando a aprender C++ agora.
 Nos dois arquivos usei cout e cin para que os parâmetros fossem fornecidos pelo usuário ao rodar os códigos. 
-Com isso, para calcular o IMC e descobrir em qual "faixa" você se encontra basta rodar o arquivo calculo_imc.cpp e fornecer sua massa e sua altura no console.
-Além do mais, para saber se um ano é bissexto, basta rodar o arquivo ano_bissexto.cpp e fornecer o ano.
-
-### Obs:
-As frases impressas no console aparecerão sem acento em algumas palavras porque ainda não aprendemos como imprimir as letras acentuadas corretamente no console, então deixei a acentuação de lado ao escrever as strings.
+Com isso, para calcular o IMC e descobrir em qual "faixa" você se encontra basta executar o arquivo calculo_imc.cpp e fornecer sua massa e sua altura no console.
+Já para saber se um ano é bissexto, execute o arquivo ano_bissexto.cpp e forneça o ano de interesse.
